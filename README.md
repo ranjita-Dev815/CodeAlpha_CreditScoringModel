@@ -48,4 +48,4 @@ Or upload the files to Google Colab and run `!python credit_scoring.py`.
 Python, Pandas, NumPy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn
 
 ## Author
-Your Name | CodeAlpha Machine Learning Intern
+Ranjita Kumari Prusty | CodeAlpha Machine Learning Intern
